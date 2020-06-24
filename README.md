@@ -7,10 +7,10 @@ obstacles and see for yourself that it always succeeds in finding the shortest p
 research... I you wanna learn about it, a good resource is [this](http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html).
 
 # Controls
-use mouse to place obstacles
-Hold CTRL or SHIFT while clicking to set start/end cell
-Press R to randomize obstacles
-Press SPACE to clear all obstacles
+* use mouse to place obstacles
+* Hold CTRL or SHIFT while clicking to set start/end cell
+* Press R to randomize obstacles
+* Press SPACE to clear all obstacles
 
 # Dependencies
 pygame
