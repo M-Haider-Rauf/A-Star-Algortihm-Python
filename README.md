@@ -15,3 +15,7 @@ about Dijkstra's algorithm and best-first search before looking into A*, since A
 
 # Dependencies
 pygame
+
+# Screenshots
+![a](https://i.ibb.co/vQ4HYbX/Screenshot-5.png)
+![b](https://i.ibb.co/p0rQC44/Screenshot-6.png)
